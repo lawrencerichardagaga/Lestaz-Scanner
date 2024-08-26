@@ -4,6 +4,9 @@
 
 # README
 
+unzip filename.zip
+
+
 ## Installation
 
 ```bash
