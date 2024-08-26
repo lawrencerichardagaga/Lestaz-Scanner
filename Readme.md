@@ -3,8 +3,9 @@
 ---
 
 # README
-
-unzip filename.zip
+after cloning run this command to un zip the file
+ 
+unzip scaner.zip
 
 
 ## Installation
